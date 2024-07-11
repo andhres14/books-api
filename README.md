@@ -28,7 +28,7 @@ Bookie is a secured RESTful API that allows users to view and manage books, auth
 - Class Validator
 
 ## Running via Docker
-To run Bookie via Docker, set the `DB_HOST` environment variable to `"mysql"` in the `.env` file. Then run the following command:
+To run Bookie via Docker, set the `DB_HOST` environment variable to `"mysql_db"` in the `.env` file. Then run the following command:
 `docker compose up --build`
 
 his will build and run the Docker container for the app and the MySQL database. You can then access the app at `http://localhost:3000`.

@@ -10,10 +10,9 @@ Bookie is a secured RESTful API that allows users to view and manage books, auth
 - Error handling
 
 
-
 ## Setup
 
-1. Clone the repository: `https://github.com/sadhakbj/Bookie-NodeJs-Typescript bookie-ts`
+1. Clone the repository: `https://github.com/andhres14/books-api bookie-ts`
 2. `cd bookie-ts`
 3. Copy the `.env.example` file to `.env` and update the necessary variables: `cp .env.example .env`
 4. Install the dependencies: `yarn install` or `yarn`
